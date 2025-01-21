@@ -68,24 +68,24 @@ int main(){
     objSingle.displayBase();
     objSingle.show();
 
-    DerivedMultiple objMultiple;
-    objMultiple.display1();
-    objMultiple.display2();
-    objMultiple.show();
+    // DerivedMultiple objMultiple;
+    // objMultiple.display1();
+    // objMultiple.display2();
+    // objMultiple.show();
 
-    DerivedMultiLevel objMultiLevel;
-    objMultiLevel.displayBase();
-    objMultiLevel.displayDerived1();
-    objMultiLevel.displayMultiLevel1();
+    // DerivedMultiLevel objMultiLevel;
+    // objMultiLevel.displayBase();
+    // objMultiLevel.displayDerived1();
+    // objMultiLevel.displayMultiLevel1();
 
-    Derived2 objDerived2;
-    objDerived2.displayBase();
-    objDerived2.displayDerived2();
+    // Derived2 objDerived2;
+    // objDerived2.displayBase();
+    // objDerived2.displayDerived2();
 
-    DerivedHybrid objHybrid;
-    objHybrid.display1();
-    objHybrid.display2();
-    objHybrid.show();
+    // DerivedHybrid objHybrid;
+    // objHybrid.display1();
+    // objHybrid.display2();
+    // objHybrid.show();
     
     return 0;
 }
