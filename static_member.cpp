@@ -12,8 +12,8 @@ public:
 int MyClass::staticVariable = 0 ; //Initialisation of static variable
 
 int main(){
-    MyClass::staticVariable = 10;//accessing static variable
-    MyClass::staticMethod(); //accessing static method
+    MyClass::staticVariable = 10; //accessing static variable
+    MyClass::staticMethod();      //accessing static method
     cout<<MyClass::staticVariable;
     return 0;
 }
